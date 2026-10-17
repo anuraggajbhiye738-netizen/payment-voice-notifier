@@ -1,0 +1,6 @@
+{
+  "name": "SoundPay Pro - Smart Payment Speaker",
+  "description": "Android-first fintech payment notification and digital soundbox app with instant verified Hindi and English voice announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
